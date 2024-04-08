@@ -141,3 +141,7 @@ userIps = ["2339985511,122.121.0.155", "234111110,122.121.0.1",
     
 1. [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe)
 2. [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state)
+3. 输入为string，例如"2+3-999"，之包含+-操作，返回计算结果。
+   和利口https://leetcode.com/problems/basic-calculator-ii/description/很类似，不过更简单，因为只有加减，没有乘除。
+5. 加上parenthesis， 例如"2+((8+2)+(3-999))"，返回计算结果。
+   这个题有点难，和利口https://leetcode.com/problems/basic-calculator/description/一样。
